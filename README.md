@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 ## String
 |  |
 | ------- |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
