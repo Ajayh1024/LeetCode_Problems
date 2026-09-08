@@ -117,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0620-not-boring-movies) |
+| [1280-students-and-examinations](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
