@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1045-customers-who-bought-all-products) |
+| [1148-article-views-i](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1341-movie-rating) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1757-recyclable-and-low-fat-products) |
