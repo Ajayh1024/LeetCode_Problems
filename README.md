@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1341-movie-rating) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
