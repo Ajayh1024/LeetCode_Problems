@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0268-missing-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0835-image-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
