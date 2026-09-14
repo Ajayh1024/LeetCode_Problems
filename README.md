@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3870-count-commas-in-range) |
 ## Sliding Window
 |  |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0002-add-two-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
