@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3870-count-commas-in-range) |
 ## Sliding Window
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Database
 |  |
 | ------- |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
