@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1341-movie-rating) |
+| [1683-invalid-tweets](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1757-recyclable-and-low-fat-products) |
 ## Depth-First Search
 |  |
