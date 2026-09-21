@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3524-find-x-value-of-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
