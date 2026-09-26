@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0835-image-overlap) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3524-find-x-value-of-array-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [1096-brace-expansion-ii](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1096-brace-expansion-ii](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
