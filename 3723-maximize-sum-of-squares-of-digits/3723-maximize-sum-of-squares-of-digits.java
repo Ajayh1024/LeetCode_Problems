@@ -1,0 +1,17 @@
+class Solution {
+    public String maxSumOfSquares(int num, int sum) {
+        // impossible if even all 9s can't reach the sum
+        if (sum > 9 * num) return "";
+
+        StringBuilder sb = new StringBuilder();
+        int remaining = sum;
+
+        for (int i = 0; i < num; i++) {
+            int digit = Math.min(9, remaining);
+            sb.append(digit);
+            remaining -= digit;
+        }
+
+        return sb.toString();
+    }
+}
