@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0058-length-of-last-word) |
 | [0301-remove-invalid-parentheses](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
