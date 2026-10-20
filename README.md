@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0835-image-overlap) |
+| [1260-shift-2d-grid](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0835-image-overlap) |
+| [1260-shift-2d-grid](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Linked List
 |  |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
