@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3886-sum-of-sortable-integers) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0268-missing-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
