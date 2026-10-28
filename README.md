@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
+| [1480-running-sum-of-1d-array](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Database
 |  |
