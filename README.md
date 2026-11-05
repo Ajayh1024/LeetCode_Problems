@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1096-brace-expansion-ii](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
