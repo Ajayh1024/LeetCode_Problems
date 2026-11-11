@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3886-sum-of-sortable-integers) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
