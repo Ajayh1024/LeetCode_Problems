@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1882-process-tasks-using-servers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Ajayh1024/LeetCode_Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Heap (Priority Queue)
